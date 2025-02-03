@@ -35,6 +35,7 @@ Bienvenido al proyecto **Cuentos Mágicos con IA**, una herramienta diseñada pa
    - Asegúrate de configurar tu clave de OpenAI como una variable de entorno para mayor seguridad:
      ```python
      import os
+     os.environ["OPENAI_API_KEY"] = "PONE_TU_API_KEY"
      openai.api_key = os.getenv("OPENAI_API_KEY")
      ```
 
