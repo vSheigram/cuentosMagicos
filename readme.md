@@ -58,6 +58,6 @@ Bienvenido al proyecto **Cuentos Mágicos con IA**, una herramienta diseñada pa
 
 Si tienes preguntas o sugerencias, no dudes en contactarme:
 - **Autor**: [vSheigram](https://github.com/vSheigram)
-- **Email**: [tuemail@example.com]
+- **Email**: [alejandro.r.espasandin@gmail.com]
 
 ¡Disfruta creando cuentos mágicos! ✨
