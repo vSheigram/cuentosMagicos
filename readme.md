@@ -40,7 +40,7 @@ Bienvenido al proyecto **Cuentos Mágicos con IA**, una herramienta diseñada pa
      ```
 
 4. **Ejecuta las celdas**:
-   - Sigue las instrucciones dentro del notebook para generar tu cuento e imágenes.
+   - Sigue las instrucciones dentro del notebook para generar tu cuento e imagen.
 
 ---
 
@@ -50,7 +50,7 @@ Bienvenido al proyecto **Cuentos Mágicos con IA**, una herramienta diseñada pa
 > Quiero un cuento para una niña de 3 años sobre una princesa y un unicornio mágico.
 
 ### Resultado:
-🌟 Un cuento personalizado acompañado de imágenes mágicas generadas automáticamente.
+🌟 Un cuento personalizado acompañado de la imagen mágica generada automáticamente.
 
 ---
 
